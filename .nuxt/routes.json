@@ -1,0 +1,16 @@
+[
+  {
+    "name": "carpics",
+    "path": "/carpics",
+    "component": "/home/kgrant/cars/pages/carpics.vue",
+    "chunkName": "pages/carpics",
+    "_name": "_c68505be"
+  },
+  {
+    "name": "index",
+    "path": "/",
+    "component": "/home/kgrant/cars/pages/index.vue",
+    "chunkName": "pages/index",
+    "_name": "_6d229076"
+  }
+]
